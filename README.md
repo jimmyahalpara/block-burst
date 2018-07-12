@@ -4,3 +4,5 @@ and render that point on the screen. Directions to play game is in main menu and
 If you face any problem running blockBrust.exe file then try running blockBrust27.pyc or blockBrust.cpython-36.pyc (compiled python file)
 by installing python into your system.
 made by -- jimmy kumar ahalpara
+jahalpara5@gmail.com
+https://pygame.org/project/3592/5679
